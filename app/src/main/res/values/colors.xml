@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="constraintColor1">#1E0649</color>
+    <color name="constraintColor2">#FFFFFFFF</color>
+    <color name="edittextColor">#FFFFFFFF</color>
+    <color name="butoncolor">#37098B</color>
+    <color name="arkaplancolor">#28012E</color>
+
+</resources>
